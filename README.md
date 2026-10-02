@@ -1,5 +1,9 @@
 # s0sta — Web3 Security Researcher · Smart Contract Auditor · Solidity Developer
 
+<p align="center">
+  <img src="hero.svg" alt="s0sta — Web3 Security Researcher" width="100%" />
+</p>
+
 ![Solidity](https://img.shields.io/badge/Solidity-0.8.26-363636?logo=solidity&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-1.5.1-8b5cf6)
 ![Tests](https://img.shields.io/badge/tests-251%20passing-brightgreen)
