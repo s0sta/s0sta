@@ -100,11 +100,11 @@
     </g>
     <g>
       <rect x="352" y="196" width="104" height="26" rx="13" fill="#1b2440" stroke="#3b4a75"/>
-      <text x="404" y="213" font-size="12" text-anchor="middle" fill="#6ee7b7" font-family="ui-monospace, Menlo, monospace">251 tests ✓</text>
+      <text x="404" y="213" font-size="12" text-anchor="middle" fill="#6ee7b7" font-family="ui-monospace, Menlo, monospace">467 tests ✓</text>
     </g>
     <g>
       <rect x="466" y="196" width="110" height="26" rx="13" fill="#1b2440" stroke="#3b4a75"/>
-      <text x="521" y="213" font-size="12" text-anchor="middle" fill="#fcd34d" font-family="ui-monospace, Menlo, monospace">Sepolia live</text>
+      <text x="521" y="213" font-size="12" text-anchor="middle" fill="#fcd34d" font-family="ui-monospace, Menlo, monospace">18 dApps live</text>
     </g>
   </g>
 
