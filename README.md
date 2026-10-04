@@ -32,11 +32,6 @@ each with its own dApp live on Sepolia, hosted at [s0sta.com](https://s0sta.com)
 
 ## Featured work
 
-**[DeFi-Hacks-Reproduce](https://github.com/s0sta/DeFi-Hacks-Reproduce)** —
-my DeFi exploit research archive: **832 documented incidents** (2017–2026) with root causes,
-exploit mechanics, lessons and the leaderboard of the largest hacks — live at
-**[s0sta.com/DeFi-Hacks-Reproduce](https://s0sta.com/DeFi-Hacks-Reproduce/)** (searchable,
-filterable, deep-dive analyses of the 119 landmark hacks).
 
 **[Web3-Smart-Contract-Projects](https://github.com/s0sta/Web3-Smart-Contract-Projects)** —
 18 complete protocols in four series:
@@ -50,6 +45,12 @@ filterable, deep-dive analyses of the 119 landmark hacks).
 
 - 🌐 **18 live dApps** at [s0sta.com](https://s0sta.com) — token → lending → governance → Islamic finance
 - 🛡 **SECURITY.md** — reporting policy + the secure-development practices used across the portfolio
+
+**[DeFi-Hacks-Reproduce](https://github.com/s0sta/DeFi-Hacks-Reproduce)** —
+my DeFi exploit research archive: **832 documented incidents** (2017–2026) with root causes,
+exploit mechanics, lessons and the leaderboard of the largest hacks — live at
+**[s0sta.com/DeFi-Hacks-Reproduce](https://s0sta.com/DeFi-Hacks-Reproduce/)** (searchable,
+filterable, deep-dive analyses of the 119 landmark hacks).
 
 ## Stack
 
