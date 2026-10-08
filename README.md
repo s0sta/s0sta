@@ -6,9 +6,9 @@
 
 ![Solidity](https://img.shields.io/badge/Solidity-0.8.26-363636?logo=solidity&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-1.5.1-8b5cf6)
-![Tests](https://img.shields.io/badge/tests-792%20passing-brightgreen)
-![CI](https://img.shields.io/badge/CI-26%2F26%20green-2ea44f)
-![Live](https://img.shields.io/badge/Live-26%20dApps%20on%20s0sta.com-06b6d4)
+![Tests](https://img.shields.io/badge/tests-823%20passing-brightgreen)
+![CI](https://img.shields.io/badge/CI-27%2F27%20green-2ea44f)
+![Live](https://img.shields.io/badge/Live-27%20dApps%20on%20s0sta.com-06b6d4)
 
 > **I build DeFi-grade smart contracts from scratch — and I test them like an attacker.**
 
@@ -19,8 +19,8 @@ I design, develop and audit Ethereum protocols — and ship each one with the ri
 auditor expects: **full test suites, fuzz and invariant testing, live attack PoCs,
 deploy scripts and CI.**
 
-My flagship work is an 26-project portfolio of **from-scratch protocols** (no OpenZeppelin,
-zero dependencies): **792 passing tests · 41,000+ lines of Solidity · CI green on all 26** —
+My flagship work is an 27-project portfolio of **from-scratch protocols** (no OpenZeppelin,
+zero dependencies): **823 passing tests · 41,000+ lines of Solidity · CI green on all 27** —
 each with its own dApp live on Sepolia, hosted at [s0sta.com](https://s0sta.com).
 
 ## What I do
