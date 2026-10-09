@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1069px" height="630px" font-family="ConsolasFallback,Consolas,Menlo,DejaVu Sans Mono,monospace" font-size="16px">
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.cc {fill: #616e7f;}
+.head {fill: #7ee787;}
+.ascii {fill: #c9d1d9;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1069px" height="630px" fill="#0d1117" rx="12"/>
+<text x="15" y="29" class="ascii">
+<tspan x="15" y="29">       $&lt;_??&gt;@#&lt;+%$&lt;+@?{-}(|                        </tspan>
+<tspan x="15" y="49">  $**&gt;&gt;&gt;*$$$@@@@@@@@@@@@@@@@%*1                     </tspan>
+<tspan x="15" y="69">_++&lt;&gt;$@@@@@@@@@@@@@@@@@@@@@@@@@&lt;[                   </tspan>
+<tspan x="15" y="89">*$$#@@@@@@@@@@@@#@@@@@@@@@@@@@@@@@[                 </tspan>
+<tspan x="15" y="109">@@$@#@@@@@@@@@@@@@@@*%@@@@@@@@@@@@@_                </tspan>
+<tspan x="15" y="129">@@#$@@@@@@@@@@@#$*_[))+@@@@@@@@@@@@&gt;                </tspan>
+<tspan x="15" y="149">@@@@@@@@@@%_[I!;````,lI{&lt;@@@@@@@@@@{                </tspan>
+<tspan x="15" y="169">@*}$&lt;&gt;@%[;````,!(|!!){l``;-@@@@##$@%                </tspan>
+<tspan x="15" y="189">@?`l``;````,:([[{1-$#%_](!`[@_[:(+*]                </tspan>
+<tspan x="15" y="209">@&gt;````````::,```I?-]}[[(!!!,?`}{l+}                 </tspan>
+<tspan x="15" y="229">@@l```;I((:````;I[?+$#+]])(,,({@$-}                 </tspan>
+<tspan x="15" y="249">@@&gt;``,1|)&gt;*?1,,*#@@#[|I)}?-!``l)|_$                 </tspan>
+<tspan x="15" y="269">@*@+````|?&lt;_-I`;1|{{]?]{11I```,__                   </tspan>
+<tspan x="15" y="289">@I,:````````````|[I1)````````,`}                    </tspan>
+<tspan x="15" y="309">  +,```````````````l1??[(l```l,:                    </tspan>
+<tspan x="15" y="329">    [,`````````(})(%@#*#@@{``I(,                    </tspan>
+<tspan x="15" y="349">      {1|````[@@%-I!!;(*_l{``1(!`                   </tspan>
+<tspan x="15" y="369">         )```-+1(!I([1{!``|*I!|-|                   </tspan>
+<tspan x="15" y="389">          ]``````````!(```_@@I|{}:                  </tspan>
+<tspan x="15" y="409">            ]l`:[|``}@@#&gt;#@@_`:)?}:{+}I(&lt;}!|        </tspan>
+<tspan x="15" y="429">              (,*@@@@@@@@@$)``:|1]1,(%@@+}*@@$]11|I;</tspan>
+<tspan x="15" y="449">             ?I```|}?_++]|``````,(}[+*_))]_?{}_%$&gt;]{</tspan>
+<tspan x="15" y="469">         [1,:]`[````````````````,[%%?)1_+{||[++[{((&lt;</tspan>
+<tspan x="15" y="489">    }[):`;)ll+;;|,````````,,I?%%+]|;(_$+(|1_*]}{l($%</tspan>
+<tspan x="15" y="509">):`,{{&gt;?`;11_?];`;(}[?+&gt;%*&gt;_-]|:,!1?_&gt;-l|}&lt;&lt;?1[)`&gt;%-</tspan>
+<tspan x="15" y="529">`|:[@$@1```]@%|)]:``:!l!;::;;;|1]?1(]{,|[&lt;?{}]];:&gt;*?</tspan>
+<tspan x="15" y="549">?$)1@#%:```|@@[`1%l```,!,I()1}{)l;1-{`l[&lt;]({)?]`I_%(</tspan>
+<tspan x="15" y="569">+${l@@[````,{-+!`{#?;``:ll,:ll!l)]-}``[+_!I[I{_`|_|I</tspan>
+<tspan x="15" y="589">+@}!@%,`;``,}{1(``(@@-:``:;|lI|{]})!`!&gt;_|:I]lI*ll!,_</tspan>
+<tspan x="15" y="609">+@);*}``I,``)_[1!``;&gt;@${`````:|}{(),`|%{,;;{l)&lt;&gt;``}[</tspan>
+</text>
+<text x="536" y="29">
+<tspan x="536" y="29" class="head">s0sta@github ─────────────────────────────────────────</tspan>
+</text>
+<text x="536" y="49">
+<tspan x="536" y="49" class="key">OS: </tspan>
+<tspan x="576.7" y="49" class="cc"> ................ </tspan>
+<tspan x="1054.4" y="49" text-anchor="end" class="value">macOS · Linux · Android · iOS</tspan>
+</text>
+<text x="536" y="69">
+<tspan x="536" y="69" class="key">Uptime: </tspan>
+<tspan x="617.4" y="69" class="cc"> .............. </tspan>
+<tspan x="1054.4" y="69" text-anchor="end" class="value">5 years, 9 months on GitHub</tspan>
+</text>
+<text x="536" y="89">
+<tspan x="536" y="89" class="key">Host: </tspan>
+<tspan x="597.1" y="89" class="cc"> ...... </tspan>
+<tspan x="1054.4" y="89" text-anchor="end" class="value">Web3 Security Researcher · SC Auditor</tspan>
+</text>
+<text x="536" y="109">
+<tspan x="536" y="109" class="key">Kernel: </tspan>
+<tspan x="617.4" y="109" class="cc"> ..... </tspan>
+<tspan x="1054.4" y="109" text-anchor="end" class="value">EVM · Solidity 0.8.x · Foundry · Yul</tspan>
+</text>
+<text x="536" y="129">
+<tspan x="536" y="129" class="key">IDE: </tspan>
+<tspan x="586.9" y="129" class="cc"> .......... </tspan>
+<tspan x="1054.4" y="129" text-anchor="end" class="value">VS Code · Cursor · Remix · Foundry</tspan>
+</text>
+<text x="536" y="149">
+<tspan x="536" y="149" class="key">Shell: </tspan>
+<tspan x="607.2" y="149" class="cc"> ................ </tspan>
+<tspan x="1054.4" y="149" text-anchor="end" class="value">zsh · forge · cast · anvil</tspan>
+</text>
+<text x="536" y="169">
+<tspan x="536" y="169" class="key"> </tspan>
+</text>
+<text x="536" y="189">
+<tspan x="536" y="189" class="key">Languages.Programming: </tspan>
+<tspan x="770.0" y="189" class="cc"> . </tspan>
+<tspan x="1054.4" y="189" text-anchor="end" class="value">Solidity, Python, JS, PHP</tspan>
+</text>
+<text x="536" y="209">
+<tspan x="536" y="209" class="key">Languages.Contracts: </tspan>
+<tspan x="749.7" y="209" class="cc"> . </tspan>
+<tspan x="1054.4" y="209" text-anchor="end" class="value">Solidity, Yul, EVM Assembly</tspan>
+</text>
+<text x="536" y="229">
+<tspan x="536" y="229" class="key">Languages.Real: </tspan>
+<tspan x="698.8" y="229" class="cc"> .................. </tspan>
+<tspan x="1054.4" y="229" text-anchor="end" class="value">Arabic, English</tspan>
+</text>
+<text x="536" y="249">
+<tspan x="536" y="249" class="key"> </tspan>
+</text>
+<text x="536" y="269">
+<tspan x="536" y="269" class="key">Hobbies.Security: </tspan>
+<tspan x="719.2" y="269" class="cc"> .. </tspan>
+<tspan x="1054.4" y="269" text-anchor="end" class="value">Smart Contract Auditing, CTFs</tspan>
+</text>
+<text x="536" y="289">
+<tspan x="536" y="289" class="key">Hobbies.Software: </tspan>
+<tspan x="719.2" y="289" class="cc"> ..... </tspan>
+<tspan x="1054.4" y="289" text-anchor="end" class="value">DeFi Protocol Design, PoCs</tspan>
+</text>
+<text x="536" y="309">
+<tspan x="536" y="309" class="key"> </tspan>
+</text>
+<text x="536" y="329">
+<tspan x="536" y="329" class="head">Contact ──────────────────────────────────────────────</tspan>
+</text>
+<text x="536" y="349">
+<tspan x="536" y="349" class="key">GitHub: </tspan>
+<tspan x="617.4" y="349" class="cc"> ......................... </tspan>
+<tspan x="1054.4" y="349" text-anchor="end" class="value">github.com/s0sta</tspan>
+</text>
+<text x="536" y="369">
+<tspan x="536" y="369" class="key">X: </tspan>
+<tspan x="566.5" y="369" class="cc"> ....................................... </tspan>
+<tspan x="1054.4" y="369" text-anchor="end" class="value">@s0sta_</tspan>
+</text>
+<text x="536" y="389">
+<tspan x="536" y="389" class="key">Portfolio: </tspan>
+<tspan x="647.9" y="389" class="cc"> ............................. </tspan>
+<tspan x="1054.4" y="389" text-anchor="end" class="value">s0sta.com</tspan>
+</text>
+<text x="536" y="409">
+<tspan x="536" y="409" class="key"> </tspan>
+</text>
+<text x="536" y="429">
+<tspan x="536" y="429" class="head">GitHub Stats ─────────────────────────────────────────</tspan>
+</text>
+<text x="536" y="449">
+<tspan x="536" y="449" class="key">Repos: </tspan>
+<tspan x="607.2" y="449" class="cc"> .............. </tspan>
+<tspan x="1054.4" y="449" text-anchor="end" class="value">40 public · 8 own · 32 forks</tspan>
+</text>
+<text x="536" y="469">
+<tspan x="536" y="469" class="key">Contributions: </tspan>
+<tspan x="688.6" y="469" class="cc"> .............. </tspan>
+<tspan x="1054.4" y="469" text-anchor="end" class="value">241 in the last year</tspan>
+</text>
+<text x="536" y="489">
+<tspan x="536" y="489" class="key">Followers: </tspan>
+<tspan x="647.9" y="489" class="cc"> ....................... </tspan>
+<tspan x="1054.4" y="489" text-anchor="end" class="value">1 · following 5</tspan>
+</text>
+<text x="536" y="509">
+<tspan x="536" y="509" class="key">Member since: </tspan>
+<tspan x="678.5" y="509" class="cc"> ...................... </tspan>
+<tspan x="1054.4" y="509" text-anchor="end" class="value">December 2020</tspan>
+</text>
+</svg>
