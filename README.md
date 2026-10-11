@@ -48,14 +48,14 @@ In Web3, I write **Solidity smart contracts from zero** and test them the way an
 
 <table>
 <tr>
-<td width="42%" valign="top"><a href="https://github.com/s0sta/Web3-Smart-Contract-Projects"><img src=".github/assets/card-web3.png" alt="Web3 Smart Contract Projects: 27 protocols built from zero, live on Sepolia"></a></td>
+<td width="42%" valign="top"><a href="https://github.com/s0sta/Web3-Smart-Contract-Projects"><img src=".github/assets/card-web3.png" alt="Web3 Smart Contract Projects: 28 protocols built from zero, live on Sepolia"></a></td>
 <td valign="top">
 
 ### [Web3 Smart Contract Projects](https://github.com/s0sta/Web3-Smart-Contract-Projects)
 
 27 Solidity protocols written from zero, from a simple ERC-20 token to complete platforms for lending, trading, identity and Islamic finance.
 
-`838 tests` · `CI on every push` · `27 live dApps`
+`914 tests` · `CI on every push` · `28 live dApps`
 
 **[Live dApps](https://s0sta.com/Web3-Smart-Contract-Projects/)** · **[Code](https://github.com/s0sta/Web3-Smart-Contract-Projects)**
 
