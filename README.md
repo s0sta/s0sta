@@ -52,6 +52,20 @@ I automate infrastructure with **Terraform and Ansible**, run workloads on **Kub
 
 <table>
 <tr>
+<td width="42%" valign="top"><a href="https://github.com/s0sta/nabd"><img src=".github/assets/card-nabd.png" alt="nabd, a doctor for Linux servers: it finds a full disk, a failed service, an open Redis port, a certificate that expires and a pending reboot"></a></td>
+<td valign="top">
+
+### [nabd — a doctor for Linux servers](https://github.com/s0sta/nabd)
+
+One command checks the whole server in about a second, says **what is wrong and why**, and prints **the command that
+fixes it**: disks, memory, services, kernel log, open ports, SSH, certificates and more. Read-only, one static binary,
+packages for Debian, Ubuntu, Fedora, RHEL, Alpine and Arch.
+
+`Go` · `Linux` · `14 checks` · `JSON · Nagios · Prometheus` · `signed releases`
+
+</td>
+</tr>
+<tr>
 <td width="42%" valign="top"><a href="https://github.com/s0sta/secure-delivery-pipeline"><img src=".github/assets/card-pipeline.png" alt="Secure delivery pipeline: test, scan, build, scan image, sign, deploy"></a></td>
 <td valign="top">
 
