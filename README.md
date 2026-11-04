@@ -164,6 +164,8 @@ on their own site: **[web3.s0sta.com](https://web3.s0sta.com)**
 
 | Certificate | Issuer | Date |
 |:--|:--|:--|
+| Scrum Fundamentals Certified (SFC) | SCRUMstudy · VMEdu | Nov 2026 |
+| Scrum for Operations and DevOps Fundamentals Certified (SODFC) | SCRUMstudy · VMEdu | Nov 2026 |
 | Google IT Support Professional Certificate | Google · Coursera | Feb 2025 |
 | Ethical Hacker | Cisco Networking Academy | Nov 2024 |
 | Operating Systems Basics | Cisco Networking Academy | Nov 2024 |
