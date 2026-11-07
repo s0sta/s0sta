@@ -172,6 +172,8 @@ on their own site: **[web3.s0sta.com](https://web3.s0sta.com)**
 | Linux Essentials | Cisco Networking Academy · NDG | Oct 2024 |
 | Responsive Web Design | freeCodeCamp | Oct 2024 |
 
+**Training:** Alta3 Academy — 13 self-paced DevSecOps, Linux, Python and networking courses completed (Nov 2026) · [course summaries](https://github.com/s0sta/Courses-Summary)
+
 **Languages:** Arabic (native) · English (advanced) · German (A1, learning)
 
 ## Work with me
