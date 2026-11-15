@@ -164,6 +164,7 @@ on their own site: **[web3.s0sta.com](https://web3.s0sta.com)**
 
 | Certificate | Issuer | Date |
 |:--|:--|:--|
+| IBM DevOps and Software Engineering Professional Certificate | IBM · Coursera | Nov 2026 |
 | Scrum Fundamentals Certified (SFC) | SCRUMstudy · VMEdu | Nov 2026 |
 | Scrum for Operations and DevOps Fundamentals Certified (SODFC) | SCRUMstudy · VMEdu | Nov 2026 |
 | Google IT Support Professional Certificate | Google · Coursera | Feb 2025 |
