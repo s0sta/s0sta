@@ -165,10 +165,10 @@ on their own site: **[web3.s0sta.com](https://web3.s0sta.com)**
 | Certificate | Issuer | Date |
 |:--|:--|:--|
 | IBM DevOps and Software Engineering Professional Certificate | IBM · Coursera | Nov 2026 |
-| AWS 3: Solutions Architect Professional | Manara | Nov 2026 |
-| Azure Administrator Associate (AZ-104) | Manara | Nov 2026 |
+| AWS Solutions Architect – Professional (training course) | Manara | Oct 2026 |
+| Azure Administrator, AZ-104 (training course) | Manara | Nov 2026 |
 | Scrum Fundamentals Certified (SFC) | SCRUMstudy · VMEdu | Nov 2026 |
-| Scrum for Operations and DevOps Fundamentals Certified (SODFC) | SCRUMstudy · VMEdu | Nov 2026 |
+| Scrum for Operations and DevOps Fundamentals Certified (SODFC) | SCRUMstudy · VMEdu | Oct 2026 |
 | Google IT Support Professional Certificate | Google · Coursera | Feb 2025 |
 | Ethical Hacker | Cisco Networking Academy | Nov 2024 |
 | Operating Systems Basics | Cisco Networking Academy | Nov 2024 |
@@ -177,7 +177,7 @@ on their own site: **[web3.s0sta.com](https://web3.s0sta.com)**
 
 **Training:** Alta3 Academy — 13 self-paced DevSecOps, Linux, Python and networking courses completed (Nov 2026) · [course summaries](https://github.com/s0sta/Courses-Summary)
 
-**Languages:** Arabic (native) · English (advanced) · German (A1, learning)
+**Languages:** Arabic (native) · English (advanced) · German (A1, learning) · Dutch (A1, learning)
 
 ## Work with me
 
