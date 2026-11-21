@@ -169,7 +169,7 @@ on their own site: **[web3.s0sta.com](https://web3.s0sta.com)**
 | Azure Administrator, AZ-104 (training course) | Manara | Nov 2026 |
 | Scrum Fundamentals Certified (SFC) | SCRUMstudy · VMEdu | Nov 2026 |
 | Scrum for Operations and DevOps Fundamentals Certified (SODFC) | SCRUMstudy · VMEdu | Oct 2026 |
-| Google IT Support Professional Certificate | Google · Coursera | Feb 2025 |
+| Google IT Support Professional Certificate | Google · Coursera | Nov 2026 |
 | Ethical Hacker | Cisco Networking Academy | Nov 2024 |
 | Operating Systems Basics | Cisco Networking Academy | Nov 2024 |
 | Linux Essentials | Cisco Networking Academy · NDG | Oct 2024 |
